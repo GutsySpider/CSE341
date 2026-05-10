@@ -1,0 +1,20 @@
+{
+  "name": "week1_assignment",
+  "version": "1.0.0",
+  "description": "Week1 Project1",
+  "homepage": "https://github.com/GutsySpider/CSE341#readme",
+  "bugs": {
+    "url": "https://github.com/GutsySpider/CSE341/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GutsySpider/CSE341.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

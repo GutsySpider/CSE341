@@ -1,0 +1,30 @@
+{
+  "name": "cse341",
+  "version": "1.0.0",
+  "description": "assignment1",
+  "homepage": "https://github.com/GutsySpider/CSE341#readme",
+  "bugs": {
+    "url": "https://github.com/GutsySpider/CSE341/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GutsySpider/CSE341.git"
+  },
+  "license": "ISC",
+  "author": "Michael Bowman",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongodb": "^7.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
