@@ -1,0 +1,26 @@
+{
+    "contacts": [
+            {
+            "firstName": "Tenisha",
+            "lastName": "Bowman",
+            "email": "tb@gmail.com",
+            "favoriteColor": "purple",
+            "birthday": "8/1/92"
+        },
+            {
+            "firstName": "Trevor",
+            "lastName": "Fisher",
+            "email": "fish@gmail.com",
+            "favoriteColor": "orange",
+            "birthday": "1/1/91"
+        },
+            {
+            "firstName": "Bob",
+            "lastName": "Rosser",
+            "email": "bobert@gmail.com",
+            "favoriteColor": "green",
+            "birthday": "3/1/86"
+        }
+
+    ]
+}
